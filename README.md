@@ -11,5 +11,10 @@
 
 #### Screenshot 
 
-![CHEESE!](/IMG_20231211_213053.jpg)
+![output!](/IMG_20231211_213053.jpg)
  
+## Disclaimer
+
+Only Use This As White Hat Hacker Don't Use As Black Hat Hacker
+
+## Social media 
