@@ -11,5 +11,5 @@
 
 #### Screenshot 
 
-![CHEESE!](internalstorage/DCIM/Screenshots/IMG_20231211_213053.jpg)
+![CHEESE!](/IMG_20231211_213053.jpg)
  
