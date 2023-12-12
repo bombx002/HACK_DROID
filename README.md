@@ -17,4 +17,11 @@
 
 Only Use This As White Hat Hacker Don't Use As Black Hat Hacker
 
-## Social media 
+## Social media
+
+Telegram :- 
+https://t.me/Hack_bombx
+
+Instagram:- https://instagram.com/hacker_bombx?igshid=OGQ5ZDc2ODk2ZA==
+
+Website:- Comeing soon 🔜
