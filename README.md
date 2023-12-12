@@ -9,6 +9,14 @@
 
 "apt-get install git"
 
+"git clone https://github.com/bombx002/HACK_DROID"
+
+"cd HACK_DROID"
+
+"python setup.py"
+
+"python Hack_droid.py"
+
 #### Screenshot 
 
 ![output!](/IMG_20231211_213053.jpg)
