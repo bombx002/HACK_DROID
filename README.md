@@ -7,7 +7,7 @@
 
 `apt-get install python -y`
 
-"apt-get install git"
+`apt-get install git`
 
 `git clone https://github.com/bombx002/HACK_DROID`
 
